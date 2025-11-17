@@ -9,7 +9,7 @@ A **handwritten digit classifier** using a **Convolutional Neural Network (CNN)*
 - CNN model trained on MNIST dataset (0-9 digits)
 - Streamlit web app with a **drawable canvas**
 - Real-time predictions for handwritten digits
-- Easy to run locally or deploy
+- Easy to run locally , deploy or URL
 ---
 
 ## Project Structure
